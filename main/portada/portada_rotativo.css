@@ -1,0 +1,13 @@
+.portada_rotativo {
+    display: flex;
+    position:relative;
+    width: 120%; /* Ajusta el tamaño según tus necesidades */
+
+    background-size: cover;
+    background-position-y: center;
+    transform-style: preserve-3d;
+    animation: rotateImages 10s linear infinite;
+    height: 550px;
+   
+}
+

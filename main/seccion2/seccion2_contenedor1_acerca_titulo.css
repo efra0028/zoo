@@ -1,0 +1,17 @@
+.seccion2_contenedor1_acerca1_titulo {
+    font-size: 48px;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family:medium 400;
+    font-weight: bolder;
+    background-image: url('/main/img/contenedor2/fondo_azul.png');
+    background-size:40%;
+    background-position-y:center;
+    background-clip:text;
+    -webkit-background-clip:text;
+    text-align: center;
+    color: rgba(0, 0, 0,.2);
+    
+}
+
+

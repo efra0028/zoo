@@ -1,0 +1,12 @@
+.seccion_4_contenedor_carucel_rotatorio_item_contenido_vinculo_boton{
+    font-weight: bolder;
+    background:url('/main/img/seccion4/fondo_azul.png');
+    color: rgba(0, 0, 0,.3);
+    color: white;
+    border: none;
+    border-radius: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.4rem;
+}

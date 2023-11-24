@@ -1,0 +1,17 @@
+.seccion2_contenedor1_boton_ver{
+    margin-top: 3.5rem;
+    border: none;
+    border-radius: 6px;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    font-size:24px;
+    font-weight: bolder;
+    background-image: url('/main/img/contenedor2/fondo3.png');
+    background-size:cover;
+    background-position-y:center;
+    background-clip:text;
+    -webkit-background-clip:text;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.1);
+    
+}

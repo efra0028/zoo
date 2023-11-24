@@ -1,0 +1,13 @@
+.seccion_3_cont1_sub {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    font-size: 54px;
+    background-image: url('/main/img/seccion3/fondo_letra/fondo_sea.png');
+    background-size:cover;
+    background-position-y:center;
+    background-clip:text;
+    -webkit-background-clip:text;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.0);
+}
+

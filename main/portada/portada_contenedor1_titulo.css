@@ -1,0 +1,14 @@
+.portada_contenedor1_titulo {
+    font-size: 70px;
+    margin-bottom: 13rem;
+    font-weight: bolder;
+    background-image: url('/main/img/portada/fondo_celeste.png');
+    background-size:40%;
+    background-position-y:center;
+    background-clip:text;
+    -webkit-background-clip:text;
+    text-align: start;
+    color: rgba(0, 0, 0,.2);
+    padding-left: 4rem;
+    font-family: regural ;
+}

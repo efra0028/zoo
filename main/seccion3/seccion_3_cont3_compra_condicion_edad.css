@@ -1,0 +1,13 @@
+.seccion_3_cont3_compra_condicion_edad {
+    background: url('/main/img/seccion3/fondo_letra/fondo_cpmprar.png');
+    width: 177px;
+    height: 280px;
+    background-position-y:center;
+    background-size:cover;
+    border-radius: 2rem;
+    text-align: center;
+    align-items: center;
+    padding-top: 1.2rem;
+    font-size: 20px;
+    margin-right: 8rem;
+}

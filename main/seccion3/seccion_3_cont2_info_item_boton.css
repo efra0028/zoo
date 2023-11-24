@@ -1,0 +1,15 @@
+.seccion_3_cont2_info_item_boton{
+   font-size: 20px; 
+   margin-top: 0;
+   background: url('/main/img/seccion3/fondo_letra/fondo_sea.png');
+   background-size:cover;
+   background-position-y:center;
+   color: white;
+   font-weight: bold;
+   padding-top: 0.7rem;
+   padding-bottom: 0.7rem;
+   padding-right: 1.5rem;
+   padding-left: 1.5rem;
+   border-radius: 15px;
+   border: none;
+}

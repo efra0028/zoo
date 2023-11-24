@@ -1,0 +1,14 @@
+.seccion_4_contenedor_carucel_rotatorio {
+    display: flex;
+    animation: carousel-animation 15s linear infinite;
+    width: 100%;
+}
+
+@keyframes carousel-animation {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }

@@ -1,0 +1,11 @@
+.cabecera {
+    background-color: black;
+    color: white;
+    align-items: center;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+}
+
+body{
+    margin: 0;
+}

@@ -1,0 +1,37 @@
+.portada_rotativo_imagen {
+    width: 340px;
+    height: 546px;
+    object-fit: cover;
+    border-radius: 8px;
+    backface-visibility: hidden;
+    position: absolute;
+    border-radius: 20px;
+}
+
+.portada_rotativo_imagen:nth-child(1) {
+    transform: rotateY(0deg) translateZ(300px);
+}
+.portada_rotativo_imagen:nth-child(2) {
+    transform: rotateY(60deg) translateZ(300px);
+}
+.portada_rotativo_imagen:nth-child(3) {
+    transform: rotateY(120deg) translateZ(300px);
+}
+.portada_rotativo_imagen:nth-child(4) {
+    transform: rotateY(180deg) translateZ(300px);
+}
+.portada_rotativo_imagen:nth-child(5) {
+    transform: rotateY(240deg) translateZ(300px);
+}
+.portada_rotativo_imagen:nth-child(6) {
+    transform: rotateY(300deg) translateZ(300px);
+}
+
+@keyframes rotateImages {
+    0% {
+        transform: rotateY(0deg);
+    }
+    100% {
+        transform: rotateY(360deg);
+    }
+}

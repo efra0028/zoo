@@ -1,0 +1,8 @@
+.seccion_4 {
+    background: url('/main/img/seccion4/fondo.png');
+    background-size: cover;
+    height: 600px;
+    padding-top: 2rem;
+    justify-content: center;
+    align-items: center;
+}

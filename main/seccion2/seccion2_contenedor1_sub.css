@@ -1,0 +1,7 @@
+.seccion2_contenedor1_sub {
+    display: flex;
+    text-align: justify;
+    justify-content: space-between;
+    padding-bottom: 3rem;
+    padding-top: 2rem;
+}

@@ -1,0 +1,13 @@
+.portada_contenedor1_vinculo_boton{
+    font-size: 24px;
+    font-weight: bolder;
+    background:url('/main/img/seccion3/fondo_letra/fondo_nregro.png');
+    color: rgba(0, 0, 0,.3);
+    color:white;
+    border: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.7rem;
+    border-radius: 8px;
+}

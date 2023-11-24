@@ -1,0 +1,12 @@
+.seccion_3_cont3_compra_condicion_edad_item_boton{
+    font-weight: bolder;
+    background:url('/main/img/seccion3/fondo_letra/fondo_nregro.png');
+    color: rgba(0, 0, 0,.3);
+    color: #0089D7;
+    border: none;
+    border-radius: 1rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.4rem;
+}

@@ -1,0 +1,10 @@
+.portada {
+    background: url('/main/img/portada/portada.png');
+    display: flex;
+    padding-bottom: 8rem;
+    padding-right: 2rem;
+    padding-left: 4rem;
+    padding-top: 7rem;
+   
+    
+}

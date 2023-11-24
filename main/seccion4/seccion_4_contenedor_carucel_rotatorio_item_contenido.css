@@ -1,0 +1,14 @@
+.seccion_4_contenedor_carucel_rotatorio_item_contenido {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background-color: #F2DCDC;
+   
+    margin-left:0;
+    margin-right: 11.4rem;
+    
+    padding-bottom: 1rem;
+}
+

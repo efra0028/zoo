@@ -1,0 +1,12 @@
+.seccion2_contenedor1_sub_subtitulo {
+    font-size: 40px;
+    font-family: medium 400;
+    font-weight: bolder;
+    background-image: url('/main/img/contenedor2/titulo.png');
+   
+    background-position-y:center;
+    background-clip:text;
+    -webkit-background-clip:text;
+    text-align: start;
+    color: rgba(0, 0, 0,.0);
+}

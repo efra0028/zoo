@@ -104,16 +104,16 @@
 <body>
 
 
-    <header class="cabecera">
+    <header class="cabecera" id="inicio">
         <nav class="menu">
             <div class="menu_icon" >
                 <img class="menu_icon_imagen" src="img/icon.png" alt="">
             </div>
             <div class="menu_items">
-                <a class="menu_items_link1" href="#"><img src="img/menu/Inicio.png" alt=""></a>
-                <a class="menu_items_link" href="#">Acerca</a>
-                <a class="menu_items_link" href="#">Agenda tu visita</a>
-                <a class="menu_items_link" href="#">Nuestro Animales</a>
+                <a class="menu_items_link1" href="#inicio" ><img src="img/menu/Inicio.png" alt=""></a>
+                <a class="menu_items_link" href="#acerca">Acerca</a>
+                <a class="menu_items_link" href="#visita">Agenda tu visita</a>
+                <a class="menu_items_link" href="#animales">Nuestro Animales</a>
                 <a class="menu_items_link" href="#"><button class="menu_items_boton"><img src="img/menu/Button.png" alt=""></button></a>
             </div>
         </nav>
@@ -123,7 +123,7 @@
     <main>
       <section class="portada">
         <div class="portada_contenedor1">
-          <h1 class="portada_contenedor1_titulo">BIENVENIDOS A <br><br> SINGAPURE ZOO</h1>
+          <h1 class="portada_contenedor1_titulo" >BIENVENIDOS A <br><br> SINGAPURE ZOO</h1>
           <a class="portada_contenedor1_vinculo" href="#"><button class="portada_contenedor1_vinculo_boton">Compra tu ticket</button></a>
         </div>
         <div class="portada_rotativo">
@@ -143,7 +143,7 @@
           <div class="seccion2_contenedor1_acerca">
             <div class="seccion2_contenedor1_acerca_1">
               <img class="seccion2_contenedor1_acerca1_linea" src="img/contenedor2/Line 1.png" alt="">
-              <h2 class="seccion2_contenedor1_acerca1_titulo">Acerca de Nosotros</h2>
+              <h2 class="seccion2_contenedor1_acerca1_titulo" id="acerca">Acerca de Nosotros</h2>
               <img class="seccion2_contenedor1_acerca1_linea" src="img/contenedor2/Line 1.png" alt="">
 
             </div>
@@ -172,10 +172,10 @@
       </section>
 
 
-      <section class="seccion_3">
+      <section class="seccion_3" id="visita">
         <div class="seccion_3_cont1">
           <img class="seccion_3_cont1_linea" src="img/seccion3/linea.png" alt="">
-            <h2 class="seccion_3_cont1_sub">Agenda tu visita</h2>
+            <h2 class="seccion_3_cont1_sub" >Agenda tu visita</h2>
             <img class="seccion_3_cont1_linea" src="img/seccion3/linea.png" alt="">
   
         </div>
@@ -251,7 +251,7 @@
       </section>
 
 
-      <section class="seccion_4">
+      <section class="seccion_4" id="animales">
         <h2 class="seccion_4_sub">Nuestros Animales</h2>
         <div class="seccion_4_contenedor">
           <div class="seccion_4_contenedor_carucel">
@@ -331,12 +331,12 @@
         <div class="piedepagina_nosotros_formulario">
             <form action="" class="formulario">
               <div class="labels">
-                <label for="nombre">Nombre</label>
+                <label for="nombre" id="nom">Nombre</label>
                 <br>
                 <br>
-                <label for="email" >E-mail</label>
+                <label for="email" id="nom" >E-mail</label>
                 <br><br>
-                <label for="phone">Phone</label>
+                <label for="phone" id="nom">Phone</label>
 
               </div>
               <div>

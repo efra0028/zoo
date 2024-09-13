@@ -1,9 +1,13 @@
-.entrada{
-  
-    
+.entrada {
+    margin-left: 2rem;
     display: block;
     width: 300px;
 }
-#nombre{
+
+#nombre {
     padding-left: 2rem;
+}
+#nom{
+    color: white;
+    font-weight: bolder;
 }
